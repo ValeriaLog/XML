@@ -1,1 +1,9 @@
-
+<xml>
+  <type>Bug</type>
+  <status>Done</status>
+  <priority>Low</priority>
+  <severyti>Minor</severyti>
+  <description>No space in header</description>
+  <steps>Go to main page</steps>
+  <expected result>There is a space in the title</expected result>
+  <actual resalt>There is no space in the title</actual resalt>
