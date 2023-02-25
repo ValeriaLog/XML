@@ -7,3 +7,4 @@
   <steps>Go to main page</steps>
   <expected result>There is a space in the title</expected result>
   <actual resalt>There is no space in the title</actual resalt>
+</xml>
